@@ -1,0 +1,16 @@
+{
+  "name": "The Bankruptcy Fresh Start -- Your Rights After Filing",
+  "short_name": "bankruptcyfreshstart.org",
+  "description": "Free guide to the bankruptcy fresh start. Learn how the discharge works, what rights you have after bankruptcy, how to rebuild credit, and what creditors can and cannot do.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
