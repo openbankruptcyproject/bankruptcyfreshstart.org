@@ -1,48 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.w3.org/2005/Sitemaps/sitemaps.org/schema/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bankruptcyfreshstart.org/buy-a-house.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcyfreshstart.org/car-loan.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcyfreshstart.org/common-myths.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcyfreshstart.org/credit-rebuilding.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcyfreshstart.org/employment.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcyfreshstart.org/first-year.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcyfreshstart.org/</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://bankruptcyfreshstart.org/rebuilding-credit.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcyfreshstart.org/your-rights.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
