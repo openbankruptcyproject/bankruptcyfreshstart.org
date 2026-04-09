@@ -1,13 +1,30 @@
-# bankruptcyfreshstart.org
+# Your Bankruptcy Fresh Start
+> Bankruptcy gives you a legal fresh start. Learn how discharge works, what debts are erased, and how to rebuild your financial life. Free 202...
 
-> Guide to getting a fresh start through bankruptcy -- life after discharge.
+## About
+bankruptcyfreshstart.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-bankruptcyfreshstart.org is a free, open-source educational resource about rebuilding after bankruptcy. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://bankruptcyfreshstart.org/: Guide to fresh start after bankruptcy -- rebuilding credit, financial planning
+## Key Pages
+- Buy a House After Bankruptcy -- How Long to Wait -- Fresh Start: https://bankruptcyfreshstart.org/buy-a-house.html
+- Getting a Car Loan After Bankruptcy -- Fresh Start: https://bankruptcyfreshstart.org/car-loan.html
+- Bankruptcy Myths -- What People Get Wrong -- Fresh Start: https://bankruptcyfreshstart.org/common-myths.html
+- COVID and Bankruptcy -- Pandemic Debt Relief Options -- Fresh Start: https://bankruptcyfreshstart.org/covid-bankruptcy.html
+- Rebuilding Credit After Bankruptcy -- Fresh Start: https://bankruptcyfreshstart.org/credit-rebuilding.html
+- Bankruptcy and Employment -- Section 525 Protections -- Fresh Start: https://bankruptcyfreshstart.org/employment.html
+- First Year After Bankruptcy Discharge -- Fresh Start: https://bankruptcyfreshstart.org/first-year.html
+- Bankruptcy for Gig Workers -- Uber, DoorDash, Freelancer Guide -- Fresh Start: https://bankruptcyfreshstart.org/gig-worker-bankruptcy.html
+- Your Bankruptcy Fresh Start: https://bankruptcyfreshstart.org/
+- Inheritance During Bankruptcy -- What Happens to Your Inheritance -- Fresh Start: https://bankruptcyfreshstart.org/inheritance-during-bankruptcy.html
+- Filing Bankruptcy Without Your Spouse -- Individual vs Joint Filing -- Fresh Start: https://bankruptcyfreshstart.org/married-filing-bankruptcy-alone.html
+- Rebuilding Credit After Bankruptcy -- Fresh Start: https://bankruptcyfreshstart.org/rebuilding-credit.html
+- Bankruptcy for Seniors -- Guide for Retirees and Fixed Income -- Fresh Start: https://bankruptcyfreshstart.org/senior-citizen-bankruptcy.html
+- Bankruptcy and Unemployment -- Filing While Jobless -- Fresh Start: https://bankruptcyfreshstart.org/unemployment-and-bankruptcy.html
+- Your Rights After Bankruptcy Discharge -- Fresh Start: https://bankruptcyfreshstart.org/your-rights.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
