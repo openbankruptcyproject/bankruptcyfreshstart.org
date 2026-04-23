@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bankruptcyfreshstart.org/sitemap.xml
+
+Sitemap: https://bankruptcyfreshstart.org/sitemapindex.xml
