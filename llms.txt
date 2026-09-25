@@ -1,27 +1,80 @@
 # Your Bankruptcy Fresh Start
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Bankruptcy gives you a legal fresh start. Learn how discharge works, what debts are erased, and how to rebuild your financial life. Free 202...
+> Bankruptcy gives you a legal fresh start. Learn how discharge works, what debts are erased, and how to rebuild your financial life. Free 2026 guide.
 
 ## About
 bankruptcyfreshstart.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
 - Your Bankruptcy Fresh Start: https://bankruptcyfreshstart.org/
-- Buy a House After Bankruptcy - How Long to Wait - Fresh Start: https://bankruptcyfreshstart.org/buy-a-house.html
-- Getting a Car Loan After Bankruptcy - Fresh Start: https://bankruptcyfreshstart.org/car-loan.html
-- Bankruptcy Myths - What People Get Wrong - Fresh Start: https://bankruptcyfreshstart.org/common-myths.html
+- Buying a House After Bankruptcy [2026]: FHA 2-Year, Conventional 4-Year, and VA 2-Year Waiting Periods: https://bankruptcyfreshstart.org/buy-a-house.html
+- Car Loan After Bankruptcy [2026]: Sub-Prime APR, Reaffirmation, and 11 USC 524(c) Rules: https://bankruptcyfreshstart.org/car-loan.html
+- Bankruptcy Myths Debunked [2026]: 10 False Beliefs About Discharge, Credit, and 11 USC 525 Protections: https://bankruptcyfreshstart.org/common-myths.html
 - COVID and Bankruptcy - Pandemic Debt Relief Options - Fresh Start: https://bankruptcyfreshstart.org/covid-bankruptcy.html
 - Rebuilding Credit After Bankruptcy - Fresh Start: https://bankruptcyfreshstart.org/credit-rebuilding.html
-- Bankruptcy and Employment - Section 525 Protections - Fresh Start: https://bankruptcyfreshstart.org/employment.html
-- First Year After Bankruptcy Discharge - Fresh Start: https://bankruptcyfreshstart.org/first-year.html
+- Bankruptcy and Employment [2026]: 11 USC 525 Anti-Discrimination Protections for Government and Private Jobs: https://bankruptcyfreshstart.org/employment.html
+- First Year After Bankruptcy Discharge [2026]: Secured Cards, Credit Reports, and 7-10 Year Reporting Window: https://bankruptcyfreshstart.org/first-year.html
 - Bankruptcy for Gig Workers - Uber, DoorDash, Freelancer Guide - Fresh Start: https://bankruptcyfreshstart.org/gig-worker-bankruptcy.html
-- Inheritance During Bankruptcy - What Happens to Your Inheritance - Fresh Start: https://bankruptcyfreshstart.org/inheritance-during-bankruptcy.html
-- Filing Bankruptcy Without Your Spouse - Individual vs Joint Filing - Fresh Start: https://bankruptcyfreshstart.org/married-filing-bankruptcy-alone.html
+- Inheritance During Bankruptcy [2026]: The 11 USC 541(a)(5) 180-Day Look-Back Rule: https://bankruptcyfreshstart.org/inheritance-during-bankruptcy.html
+- Filing Bankruptcy Without Your Spouse [2026]: Joint Debts, Community Property, and Non-Filing Spouse Credit: https://bankruptcyfreshstart.org/married-filing-bankruptcy-alone.html
 - Bankruptcy for Seniors - Guide for Retirees and Fixed Income - Fresh Start: https://bankruptcyfreshstart.org/senior-citizen-bankruptcy.html
 - Bankruptcy and Unemployment - Filing While Jobless - Fresh Start: https://bankruptcyfreshstart.org/unemployment-and-bankruptcy.html
-- Your Rights After Bankruptcy Discharge - Fresh Start: https://bankruptcyfreshstart.org/your-rights.html
+- Your Rights After Bankruptcy Discharge [2026]: 11 USC 524 Discharge Injunction and Anti-Discrimination: https://bankruptcyfreshstart.org/your-rights.html
 - Privacy Policy: https://bankruptcyfreshstart.org/privacy.html
+- About bankruptcyfreshstart.org: https://bankruptcyfreshstart.org/about.html
+- Life After Bankruptcy in Alabama [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/alabama.html
+- Life After Bankruptcy in Alaska [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/alaska.html
+- Life After Bankruptcy in Arizona [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/arizona.html
+- Life After Bankruptcy in Arkansas [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/arkansas.html
+- Life After Bankruptcy in California [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/california.html
+- Life After Bankruptcy in Colorado [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/colorado.html
+- Life After Bankruptcy in Connecticut [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/connecticut.html
+- Life After Bankruptcy in Delaware [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/delaware.html
+- Life After Bankruptcy in District of Columbia [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/district-of-columbia.html
+- Life After Bankruptcy in Florida [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/florida.html
+- Life After Bankruptcy in Georgia [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/georgia.html
+- Life After Bankruptcy in Hawaii [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/hawaii.html
+- Life After Bankruptcy in Idaho [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/idaho.html
+- Life After Bankruptcy in Illinois [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/illinois.html
+- Life After Bankruptcy by State: https://bankruptcyfreshstart.org/states/
+- Life After Bankruptcy in Indiana [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/indiana.html
+- Life After Bankruptcy in Iowa [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/iowa.html
+- Life After Bankruptcy in Kansas [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/kansas.html
+- Life After Bankruptcy in Kentucky [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/kentucky.html
+- Life After Bankruptcy in Louisiana [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/louisiana.html
+- Life After Bankruptcy in Maine [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/maine.html
+- Life After Bankruptcy in Maryland [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/maryland.html
+- Life After Bankruptcy in Massachusetts [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/massachusetts.html
+- Life After Bankruptcy in Michigan [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/michigan.html
+- Life After Bankruptcy in Minnesota [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/minnesota.html
+- Life After Bankruptcy in Mississippi [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/mississippi.html
+- Life After Bankruptcy in Missouri [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/missouri.html
+- Life After Bankruptcy in Montana [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/montana.html
+- Life After Bankruptcy in Nebraska [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/nebraska.html
+- Life After Bankruptcy in Nevada [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/nevada.html
+- Life After Bankruptcy in New Hampshire [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/new-hampshire.html
+- Life After Bankruptcy in New Jersey [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/new-jersey.html
+- Life After Bankruptcy in New Mexico [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/new-mexico.html
+- Life After Bankruptcy in New York [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/new-york.html
+- Life After Bankruptcy in North Carolina [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/north-carolina.html
+- Life After Bankruptcy in North Dakota [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/north-dakota.html
+- Life After Bankruptcy in Ohio [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/ohio.html
+- Life After Bankruptcy in Oklahoma [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/oklahoma.html
+- Life After Bankruptcy in Oregon [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/oregon.html
+- Life After Bankruptcy in Pennsylvania [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/pennsylvania.html
+- Life After Bankruptcy in Rhode Island [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/rhode-island.html
+- Life After Bankruptcy in South Carolina [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/south-carolina.html
+- Life After Bankruptcy in South Dakota [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/south-dakota.html
+- Life After Bankruptcy in Tennessee [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/tennessee.html
+- Life After Bankruptcy in Texas [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/texas.html
+- Life After Bankruptcy in Utah [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/utah.html
+- Life After Bankruptcy in Vermont [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/vermont.html
+- Life After Bankruptcy in Virginia [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/virginia.html
+- Life After Bankruptcy in Washington [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/washington.html
+- Life After Bankruptcy in West Virginia [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/west-virginia.html
+- Life After Bankruptcy in Wisconsin [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/wisconsin.html
+- Life After Bankruptcy in Wyoming [2026]: Credit, Housing, and Fresh Start: https://bankruptcyfreshstart.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
